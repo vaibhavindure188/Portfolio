@@ -1,0 +1,53 @@
+[
+    {
+        "title": "WhatsApp Bird",
+        "imageSrc": "projects/project.png",
+        "description": "This is WebApp similar to Whatsapp ",
+        "skills": ["React", "Express", "Node","MongoDB","Material UI"],
+        "demo" : "https://example.com",
+        "source" : "https://www.github.com"
+    },
+    {
+        "title": "Hosteler",
+        "imageSrc": "projects/project.png",
+        "description": "This is website helps to find best hostel ",
+        "skills": ["React", "CSS", "Local Storage"],
+        "demo" : "https://example.com",
+        "source" : "https://www.github.com"
+    },
+    {
+        "title": "Restaurant Footd",
+        "imageSrc": "projects/project.png",
+        "description": "A website to categories the food best way  ",
+        "skills": ["React", "CSS", "Local storage"],
+        "demo" : "https://example.com",
+        "source" : "https://www.github.com"
+    },
+    {
+        "title": "Todo List",
+        "imageSrc": "projects/project.png",
+        "description": "This is Website for todo list ",
+        "skills": ["HTML","Javascript" ,"CSS"],
+        "demo" : "https://example.com",
+        "source" : "https://www.github.com"
+    },
+    {
+        "title": "Keep The Notes",
+        "imageSrc": "projects/project.png",
+        "description": "This is Website  to make notes",
+        "skills": ["HTML","Javascript" ,"CSS"],
+        "demo" : "https://example.com",
+        "source" : "https://www.github.com"
+    },
+    {
+        "title": "Portfolio",
+        "imageSrc": "projects/project.png",
+        "description": "A portfolio Website for a Student ",
+        "skills": ["React", "CSS"],
+        "demo" : "https://example.com",
+        "source" : "https://www.github.com"
+    }
+    
+
+
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "role":"SWE Intern",
+        "organization" : "Cummin India",
+        "startDate" : "Jan, 2024",
+        "endDate" : "Feb, 2024",
+        "experiences": ["Worked on React", "Designed new Features and optimized the functionality of Web"],
+        "imageSrc" : "history/google.png"
+    },
+
+    {
+        "role":"AWS Cloud Intern",
+        "organization" : "AICTE And  Eduskill",
+        "startDate" : "Feb, 2024",
+        "endDate" : "Apr, 2024",
+        "experiences": ["Worked on AWS Cloud", "Improved performance by 10% the functionality by 15%"],
+        "imageSrc" : "history/microsoft.png"
+    },
+    {
+        "role":"SWE Intern",
+        "organization" : "WorldLine",
+        "startDate" : "Jan, 2024",
+        "endDate" : "Feb, 2024",
+        "experiences": ["Worked on React", "Designed new Features and optimized the functionality"],
+        "imageSrc" : "history/netflix.png"
+    }
+]
